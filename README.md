@@ -1,4 +1,4 @@
-Movie-Trailer-Website
+MOVIE-TRAILER-WEBSITE
 
 This project will build a Movie Trailer Website where users can see my favorite movies and watch the trailers. 
 The code stores a list of movie titles, poster images, and movie trailer URLs. 
