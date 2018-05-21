@@ -27,7 +27,7 @@ within the download you'll find the following files:
 
 BUGS AND FEATURE REQUESTS
 Have a bug or a feature request? Please open an issue,
-github.com/wilberh/Movie-Trailer-Website/issues/new
+github.com/pradeepthi15pa1a04g9/movie/issues/new
 
 
 DOCUMENTATION
