@@ -17,7 +17,7 @@ The Python module called fresh_tomatoes.py has a function called open_movies_pag
 which is a list of movies and creates an HTML file which visualizes all of your favorite movies.
 
 
-WHAT'S INCLUDED
+## WHAT'S INCLUDED
 within the download you'll find the following files:
 -media.py
 -entertainment_center.py
@@ -25,17 +25,17 @@ within the download you'll find the following files:
 -README.txt
 
 
-BUGS AND FEATURE REQUESTS
+## BUGS AND FEATURE REQUESTS
 Have a bug or a feature request? Please open an issue,
 github.com/pradeepthi15pa1a04g9/movie/issues/new
 
 
-DOCUMENTATION
+## DOCUMENTATION
 This Movie-Trailer-Website documentation, included in this repo in the root directory, is built with Python version 2.7.9.  
 The docs may also be run locally.
 
 
-RUNNING DOCUMENTATION LOCALLY
+## RUNNING DOCUMENTATION LOCALLY
 1. If necessary, install Python version 2.7.9
 2. From the root /Movie-Trailer-Website directory, run entertainment_center.py in the command line
 3. The program will open a browser windows and display the movie posters ready to be clicked for a movie trailer playback
