@@ -18,7 +18,7 @@ which is a list of movies and creates an HTML file which visualizes all of your 
 
 
 ## WHAT'S INCLUDED
-# within the download you'll find the following files:
+within the download you'll find the following files:
 -media.py
 -entertainment_center.py
 -fresh_tomatoes.py
