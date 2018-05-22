@@ -2,9 +2,11 @@ import webbrowser
 
 
 class Movie():
+        """This class contain the srtructure of the object movie
+           with attributes of movietitle,movie storyline,image url
+           and youtube url"""
         VALID_RATINGS = ["EXCELLENT", "GOOD", "BAD", "AVERAGE"]
-
-        """This class contain the srtructure of the object movie"""
+        """The ratings of the movies in a list"""
         # Constructor of the class
         def __init__(self, movie_title, movie_storyline,
                      poster_image, trailer_youtube):
@@ -16,5 +18,3 @@ class Movie():
 
         def show_trailer(self):
             webbrowser.open(self.trailer_youtube_url)
-
-            
