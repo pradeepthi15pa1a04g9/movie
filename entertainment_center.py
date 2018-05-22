@@ -6,6 +6,9 @@ nemo = media.Movie("nemo", "finding nemo", "https://bit.ly/2kcXyGQ",
                    "https://www.youtube.com/embed/gfgeIZyrIM0")
 # New movie object.
 snowwhite = media.Movie("snowwhite", "about a girl", "https://bit.ly/2KKiPTw",
+                        "https://www.youtube.com/embed/IfePzXxIuvc")
+# New movie object.
+tomandjerry = media.Movie("tomandjerry", "tomandjerry", "https://bit.ly/2kg3L59",
                         "https://www.youtube.com/embed/WBYdp2sOut0")
 # New movie object.
 moana = media.Movie("moana", "saving island", "https://bit.ly/2IU4RBt",
