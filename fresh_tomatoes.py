@@ -7,11 +7,11 @@ main_page_head = '''
 <html>
 <head>
    <title>Movie Trailers</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta name="viewport" content="width=device-width, initial-scale = 1.0">
    <script src = "https://code.jquery.com/jquery-1.12.3.min.js"
-                integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="
-                crossorigin="anonymous"></script>
-        <link href = "https://fonts.googleapis.com/css?family=Courgette"
+                integrity = "sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="
+                crossorigin = "anonymous"></script>
+        <link href = "https://fonts.googleapis.com/css?family = Courgette"
                     rel = "stylesheet">
         <link rel = "stylesheet"
                      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
