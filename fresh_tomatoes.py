@@ -9,7 +9,7 @@ main_page_head = '''
    <title>Movie Trailers</title>
    <meta name="viewport" content="width=device-width, initial-scale = 1.0">
    <script src = "https://code.jquery.com/jquery-1.12.3.min.js"
-                integrity = "sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="
+            integrity = "sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="
                 crossorigin = "anonymous"></script>
         <link href = "https://fonts.googleapis.com/css?family = Courgette"
                     rel = "stylesheet">
@@ -239,5 +239,3 @@ def open_movies_page(movies):
     url = os.path.abspath(output_file.name)
     # open in a new tab, if possible
     webbrowser.open('file://' + url, new=2)
-
-
